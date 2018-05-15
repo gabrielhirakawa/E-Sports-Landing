@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 
 
@@ -9,10 +10,17 @@ background-image: url("img/fundo.jpg");
 max-width: 100%;
 height: auto;
 background-repeat: no-repeat;
+=======
+	background-image: url("img/fundo2.jpg");
+	max-width: 100%;
+	height: 600px;
+	background-size: cover;
+>>>>>>> fa144b389d51e50416a3fbc82e31fe3eb2846792
 
 }
 
 .faixa-topo{
+<<<<<<< HEAD
 	background-color: rgba(0,0,0,0.5);
 	max-width: 100%;
 	height: auto;
@@ -22,4 +30,68 @@ background-repeat: no-repeat;
 .faixa-topo img{
 	max-width: 100%;
 	background-repeat: no-repeat;
+=======
+
+	background-color: rgb(65,64,59, 0.6);
+	width: 100%;
+	height: auto;
+	height:70px;
+	position: relative;
+	font-weight:
+}
+
+#texto-banner{
+	color: white;
+	text-align: center;
+	margin-top: 15%;
+	font-family: 'Roboto', sans-serif;
+}
+
+.faixa-topo .container img{
+	width: 150px;
+	position: relative;
+	margin-top: 5px;
+}
+.faixa-topo .container .menu{
+	float: right;
+	position: relative;
+}
+
+.faixa-topo .container .menu ul{
+	padding: 25px 0px;
+	text-align: center;
+	text-decoration: none;
+
+}
+.faixa-topo .container .menu ul li{
+	display: inline;
+	padding: 20px;
+	text-decoration: none;
+	font-size: 10pt;
+	color: #fff;
+}
+.faixa-topo .container .menu ul li:hover{
+	border-bottom: 2px solid #4dffb8;
+	text-decoration: none;
+	font-size: 10pt;
+	color: #4dffb8;
+}
+.faixa-topo .container .menu ul a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 10pt;
+	border: none;
+}
+.faixa-topo .container .menu ul a:hover{
+	color: #4dffb8;
+	text-decoration: none;
+	border: none;
+
+}
+
+#texto-banner h2{
+	font-weight:300;
+	font-size: 25px;
+	margin: 10px;
+>>>>>>> fa144b389d51e50416a3fbc82e31fe3eb2846792
 }
