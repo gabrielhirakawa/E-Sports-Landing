@@ -1,4 +1,11 @@
+*{
+margin: 0px;
+padding: 0px;
+}
 
+body{
+  font-family: 'Roboto', sans-serif;
+}
 
 #banner{
 background-image: url("img/fundo.png");
@@ -13,5 +20,22 @@ background-size: cover;
 .faixa-topo{
 	background-color: #333333;
 	width: 100%;
-	height: auto;
+	height:70px;
+	position: relative;
+}
+
+.faixa-topo .container img{
+	float: left;
+	width: 150px;
+	margin-top: 5px;
+	height: 60px;
+	position: relative;
+	overflow: hidden;
+}
+
+.faixa-topo .container .menu{
+	float: right;
+	position: relative;
+	background-color: blue;
+	display: inline;
 }
