@@ -21,7 +21,7 @@
 	text-align: center;
 	margin-top: 15%;
 	font-family: 'Roboto', sans-serif;
-
+}
 
 .faixa-topo .container .menu{
 	float: right;
@@ -32,22 +32,32 @@
 .faixa-topo .container .menu ul{
 	padding: 25px 0px;
 	text-align: center;
+	text-decoration: none;
+
 }
 .faixa-topo .container .menu ul li{
 	display: inline;
 	padding: 20px;
+	text-decoration: none;
+	font-size: 10pt;
+	color: #fff;
 }
 .faixa-topo .container .menu ul li:hover{
 	border-bottom: 2px solid #4dffb8;
+	text-decoration: none;
+	font-size: 10pt;
+	color: #4dffb8;
 }
-.faixa-topo .container .menu ul li a{
+.faixa-topo .container .menu ul a {
 	color: #fff;
 	text-decoration: none;
 	font-size: 10pt;
+	border: none;
 }
-.faixa-topo .container .menu ul li a:hover{
+.faixa-topo .container .menu ul a:hover{
 	color: #4dffb8;
-	border-bottom: 2px solid #4dffb8;
+	text-decoration: none;
+	border: none;
 
 }
 
