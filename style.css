@@ -1,25 +1,15 @@
+#banner{
 
-
-
-
-
-
-.img-fluid{
 background-image: url("img/fundo.jpg");
 max-width: 100%;
-height: auto;
-background-repeat: no-repeat;
+height: 600px;
+opacity: 0.6;
 
 }
 
 .faixa-topo{
-	background-color: rgba(0,0,0,0.5);
-	max-width: 100%;
-	height: auto;
-	position: relative;
-}
 
-.faixa-topo img{
-	max-width: 100%;
-	background-repeat: no-repeat;
+	background-color: rgba(0,0,0,0.5);
+	width: 100%;
+	height: auto;
 }
