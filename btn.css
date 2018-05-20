@@ -1,0 +1,52 @@
+
+.btn{
+	font-size: 14px;
+	text-transform: uppercase;
+	border:none;
+	padding-right: 25px;
+	padding-left: 25px;
+	cursor: pointer;
+	padding-top: 10px;
+}
+
+.btn-verde, .btn-laranja{
+	margin-top: 25px;
+	color: #fff;
+
+}
+.btn-verde{
+	background: #00cc99 ;
+	box-shadow: 0 5px 0 #019b74;
+}
+.btn-verde:hover{
+	background: #019b74 ;
+	box-shadow: 0 5px 0 #056c52;
+}
+
+
+.btn-verde:active{
+	position: relative;
+	top:5px;
+	box-shadow: none;
+}
+
+.btn-laranja{
+	background: #cc6633;
+	box-shadow: 0 5px 0 #b7501c;
+}
+.btn-laranja:hover{
+	background: #b7501c ;
+	box-shadow: 0 5px 0 #9d461b;
+}
+
+
+
+.btn-laranja:active{
+	position: relative;
+	top:5px;
+	box-shadow: none;
+}
+
+
+
+

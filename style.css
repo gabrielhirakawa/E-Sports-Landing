@@ -19,7 +19,7 @@
 #texto-banner{
 	color: white;
 	text-align: center;
-	margin-top: 15%;
+	margin-top: 120px;
 	font-family: 'Roboto', sans-serif;
 }
 
@@ -66,3 +66,37 @@
 	font-size: 25px;
 	margin: 10px;
 }
+
+.btn1, .btn2{
+	margin-top: 25px;
+	
+	color: #fff;
+
+}
+.btn1{
+	background: #00cc99 ;
+	margin-right: 10px;
+	box-shadow: 0 -5px 0 #019b74;
+}
+.btn1:hover{
+	background: #019b74 ;
+	margin-right: 10px;
+	box-shadow: 0 -5px 0 #056c52;
+}
+
+.btn1:hover{
+	background: #019b74 ;
+	margin-right: 10px;
+	box-shadow: 0 -5px 0 #056c52;
+}
+
+.btn{
+	font-size: 14px;
+	text-transform: uppercase;
+	border:none;
+	padding-right: 25px;
+	padding-left: 25px;
+	cursor: pointer;
+	padding-top: 10px;
+}
+
