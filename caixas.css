@@ -1,0 +1,16 @@
+.caixa{
+background-color: #1c2a33;
+height: 200px;
+}
+
+.caixa2{
+background-color: #00cc99;
+height: 200px;
+}
+
+#icone-money{
+	
+	background-image: url("img/no_money.png");
+
+}
+
