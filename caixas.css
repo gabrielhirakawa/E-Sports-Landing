@@ -1,16 +1,46 @@
 .caixa{
 background-color: #1c2a33;
 height: 200px;
+box-shadow: 0 -5px 0 #00cc99;
 }
 
 .caixa2{
 background-color: #00cc99;
 height: 200px;
+box-shadow: 0 -5px 0 #fff;
 }
 
+.icones-caixa{
+	width: 80%;
+	height: 80%;
+	background-repeat: no-repeat;
+	margin-left: 35%;
+	margin-top: 10%;
+
+
+}
 #icone-money{
 	
 	background-image: url("img/no_money.png");
-
 }
+
+#icone-notepad{
+	background-image: url("img/notepad.png");
+	margin-left: 40%;
+}
+
+#icone-games{
+	background-image: url("img/games.png");
+	margin-top: 16%;
+}
+
+#icone-responsive{
+	background-image: url("img/responsive.png");
+}
+
+#texto-icon{
+	
+}
+
+
 
