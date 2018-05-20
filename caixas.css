@@ -15,7 +15,8 @@ box-shadow: 0 -5px 0 #fff;
 	height: 80%;
 	background-repeat: no-repeat;
 	margin-left: 35%;
-	margin-top: 10%;
+	margin-top: 5%;
+	margin-bottom: 1px;
 
 
 }
@@ -31,7 +32,7 @@ box-shadow: 0 -5px 0 #fff;
 
 #icone-games{
 	background-image: url("img/games.png");
-	margin-top: 16%;
+	margin-top: 5%;
 }
 
 #icone-responsive{
@@ -39,7 +40,10 @@ box-shadow: 0 -5px 0 #fff;
 }
 
 #texto-icon{
-	
+	color: #FFF;
+	text-align: center;
+	font-weight: 400;
+	text-transform: uppercase;
 }
 
 
