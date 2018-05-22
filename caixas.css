@@ -1,12 +1,12 @@
 .caixa{
 background-color: #1c2a33;
-height: 200px;
+height: 250px;
 box-shadow: 0 -5px 0 #00cc99;
 }
 
 .caixa2{
 background-color: #00cc99;
-height: 200px;
+height: 250px;
 box-shadow: 0 -5px 0 #fff;
 }
 
@@ -14,9 +14,8 @@ box-shadow: 0 -5px 0 #fff;
 	width: 80%;
 	height: 80%;
 	background-repeat: no-repeat;
-	margin-left: 35%;
+	margin-left: 40%;
 	margin-top: 5%;
-	margin-bottom: 1px;
 
 
 }
@@ -27,14 +26,13 @@ box-shadow: 0 -5px 0 #fff;
 
 #icone-notepad{
 	background-image: url("img/notepad.png");
-	margin-left: 40%;
+	
 }
 
 #icone-games{
 	background-image: url("img/games.png");
-	margin-top: 5%;
+	margin-right: 15%;
 }
-
 #icone-responsive{
 	background-image: url("img/responsive.png");
 }
@@ -44,6 +42,7 @@ box-shadow: 0 -5px 0 #fff;
 	text-align: center;
 	font-weight: 400;
 	text-transform: uppercase;
+	margin-top: -40px;
 }
 
 
